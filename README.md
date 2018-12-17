@@ -1,5 +1,5 @@
 # **onekey_LAMP_Script**
-## *本脚本为一键部署Apache、PHP、Mariadb、Wordpress脚本，所有软件均采用源码包安装。*
+## *本脚本为一键部署Apache、PHP、Mariadb、phpMyadmin、Wordpress脚本，所有软件均采用源码包安装。*
 ### **注意事项：**
 1. 脚本默认无执行权限，需执行 chmod +x V3.0-onekey_LAMP+wordpress.sh 赋予脚本执行权限
 2. 本脚本适用于centos7系统，软件均采用源码包编译安装，小内存主机安装时间可能接近1小时
